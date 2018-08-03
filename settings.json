@@ -1,6 +1,4 @@
 {
-"Profiles": [
-{
   "Ansi 0 Color" : {
     "Blue Component" : 0,
     "Green Component" : 0,
@@ -180,6 +178,10 @@
       "Action" : 10,
       "Text" : "[1;5D"
     },
+    "0xf703-0x300000" : {
+      "Text" : "0x05",
+      "Action" : 11
+    },
     "0x37-0x40000" : {
       "Action" : 11,
       "Text" : "0x1f"
@@ -203,6 +205,10 @@
     "0xf739-0x0" : {
       "Action" : 13,
       "Text" : ""
+    },
+    "0xf702-0x300000" : {
+      "Text" : "0x01",
+      "Action" : 11
     },
     "0xf728-0x0" : {
       "Action" : 11,
@@ -416,6 +422,4 @@
     "Red Component" : 0.7333333492279053
   },
   "Use Non-ASCII Font" : false
-}
-]
 }
